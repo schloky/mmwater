@@ -19588,8 +19588,8 @@
 19587;102;70;74;land;false;plains;1
 19588;83;119;68;land;false;plains;1
 19589;73;111;67;land;false;plains;1
-19590;22;114;159;sea;false;ocean;0
-19591;22;75;234;sea;false;ocean;0
+19590;22;114;159;lake;false;lakes;0
+19591;22;75;234;lake;false;lakes;0
 19592;175;37;233;land;false;plains;1
 19593;134;76;133;land;false;plains;1
 19594;119;62;26;lake;false;lakes;0
