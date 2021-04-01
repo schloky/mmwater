@@ -10,4 +10,4 @@ dependencies={
 }
 name="Mappa Mundi Water Submod"
 supported_version="1.10.*"
-path="mod/mmwater"
+path="mod/mappamundiwater"
