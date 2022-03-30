@@ -615,7 +615,7 @@
 614;3;18;20;land;false;hills;1
 615;3;18;65;land;false;desert;1
 616;3;19;232;land;true;desert;1
-617;3;20;240;lake;false;ocean;1
+617;3;20;240;land;false;plains;1
 618;3;21;30;land;false;desert;1
 619;3;21;85;land;false;plains;1
 620;3;21;135;land;false;forest;1
@@ -4034,7 +4034,7 @@
 4033;47;30;208;land;false;plains;1
 4034;47;30;232;land;false;plains;1
 4035;47;31;240;land;true;plains;1
-4036;47;32;248;lake;false;ocean;1
+4036;47;32;248;land;true;plains;1
 4037;47;33;68;land;false;hills;1
 4038;47;33;173;land;false;mountain;1
 4039;47;34;236;land;false;plains;1
@@ -5603,7 +5603,7 @@
 5602;67;38;240;land;false;plains;1
 5603;67;39;248;land;false;plains;1
 5604;67;40;236;land;true;plains;1
-5605;68;0;244;lake;false;ocean;1
+5605;68;0;244;land;false;plains;1
 5606;68;2;232;land;false;plains;1
 5607;68;4;240;land;true;plains;1
 5608;68;6;248;land;false;plains;1
@@ -20517,7 +20517,7 @@
 20516;16;165;10;lake;false;forest;1
 20517;81;50;213;lake;false;ocean;1
 20518;219;234;19;land;false;mountain;1
-20519;120;129;163;lake;false;ocean;1
+20519;120;129;163;land;false;plains;1
 20520;100;163;81;lake;false;ocean;1
 20521;112;163;137;lake;false;ocean;1
 20522;83;107;105;lake;false;ocean;1
@@ -20951,7 +20951,7 @@
 20950;97;30;244;land;false;plains;1
 20951;76;35;239;land;false;plains;1
 20952;37;22;247;lake;false;ocean;1
-20953;40;28;216;lake;false;ocean;1
+20953;40;28;216;land;false;plains;1
 20954;25;6;240;land;false;desert;1
 20955;61;32;229;lake;false;ocean;1
 20956;38;23;239;lake;false;ocean;1
@@ -20990,11 +20990,11 @@
 20989;119;216;89;lake;false;ocean;1
 20990;192;53;80;lake;false;ocean;1
 20991;179;197;8;lake;false;ocean;1
-20992;50;82;38;lake;false;ocean;1
-20993;136;102;100;lake;false;ocean;1
-20994;87;243;184;lake;false;ocean;1
-20995;111;70;55;lake;false;ocean;1
-20996;184;112;86;lake;false;ocean;1
+20992;50;82;38;land;false;plains;1
+20993;136;102;100;land;false;plains;1
+20994;87;243;184;land;false;plains;1
+20995;111;70;55;land;false;plains;1
+20996;184;112;86;land;false;plains;1
 20997;191;62;13;lake;false;ocean;1
 20998;139;236;64;lake;false;ocean;1
 20999;175;55;51;land;false;mountain;1
