@@ -1,0 +1,17 @@
+state={
+	id=8869
+	name="STATE_8869"
+	provinces={
+		1
+	}
+	history={
+		owner = WTR
+		add_core_of = WTR
+		add_core_of = LKE
+		add_core_of = A19
+		add_core_of = AST
+	}
+	manpower = 1
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+}
