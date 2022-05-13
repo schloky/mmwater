@@ -6432,7 +6432,7 @@
 6431;86;12;51;land;false;mountain;1
 6432;86;12;201;land;false;plains;1
 6433;86;12;236;land;false;plains;1
-6434;86;14;244;lake;false;ocean;1
+6434;86;14;244;land;false;hills;1
 6435;86;15;166;land;false;marsh;1
 6436;86;15;221;land;false;mountain;1
 6437;86;15;232;land;false;plains;1
@@ -6626,7 +6626,7 @@
 6625;87;15;71;land;false;plains;1
 6626;87;15;176;land;false;hills;1
 6627;87;15;236;land;true;plains;1
-6628;87;16;244;land;false;plains;1
+6628;87;16;244;lake;false;ocean;1
 6629;87;17;232;land;false;plains;1
 6630;87;18;36;land;false;plains;1
 6631;87;18;141;land;false;mountain;1
