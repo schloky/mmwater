@@ -8839,7 +8839,7 @@
 8838;117;40;232;land;false;plains;1
 8839;118;0;244;land;false;plains;1
 8840;118;2;247;land;false;plains;1
-8841;118;6;240;lake;false;ocean;1
+8841;118;6;240;land;false;plains;1
 8842;118;8;248;land;false;plains;1
 8843;118;10;236;land;false;plains;1
 8844;118;12;244;land;false;plains;1
@@ -8855,7 +8855,7 @@
 8854;118;28;240;land;false;plains;1
 8855;118;29;248;land;false;plains;1
 8856;118;30;236;land;false;plains;1
-8857;118;32;244;lake;false;ocean;1
+8857;118;32;244;land;false;plains;1
 8858;118;33;232;land;false;plains;1
 8859;118;34;240;land;false;plains;1
 8860;118;35;248;lake;false;ocean;1
@@ -8889,7 +8889,7 @@
 8888;119;39;236;land;false;plains;1
 8889;119;40;240;lake;false;ocean;1
 8890;120;2;232;land;false;plains;1
-8891;120;6;248;lake;false;ocean;1
+8891;120;6;248;land;false;plains;1
 8892;120;8;236;land;false;plains;1
 8893;120;10;244;land;true;plains;1
 8894;120;12;232;land;true;plains;1
